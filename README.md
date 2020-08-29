@@ -1,16 +1,29 @@
-### Hi there 👋
+###  Olá, eu sou Mariane <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+---
 
-<!--
-**marianefelix/marianefelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:woman_student:&nbsp;&nbsp;Estudante de Tecnologia da Informação (TI), na UFRN 
+</br>
+:woman_technologist: Desenvolvedora web
+</br>
+:rocket: Sempre disposta a aprender novas ferramentas e tecnologias, 
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;respeitando meu próprio tempo e meus objetivos
+</br>
 
-Here are some ideas to get you started:
+#### Atualmente, estou entusiasmada estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+#### Outras tecnologias:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+#### Fale comigo:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariane-felix-642350171/)](https://www.linkedin.com/in/mariane-felix-642350171/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianefelix59@gmail.com)](mailto:marianefelix59@gmail.com)
