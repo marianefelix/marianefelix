@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;respeitando meu próprio tempo e meus objetivos
 </br>
 
-#### Atualmente, estou entusiasmada estudando:
+#### Atualmente, estou focando em:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -25,5 +25,5 @@
 
 #### Fale comigo:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariane-felix-642350171/)](https://www.linkedin.com/in/mariane-felix-642350171/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariane-felix-642350171/)](https://www.linkedin.com/in/mariane-felix)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianefelix59@gmail.com)](mailto:marianefelix59@gmail.com)
