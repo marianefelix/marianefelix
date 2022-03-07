@@ -26,4 +26,4 @@
 #### Fale comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariane-felix-642350171/)](https://www.linkedin.com/in/mariane-felix)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianefelix59@gmail.com)](mailto:marianefelix59@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariane.felix.dev@gmail.com)](mailto:mariane.felix.dev@gmail.com)
