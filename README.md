@@ -1,4 +1,4 @@
-###  Olá, eu sou Mariane <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+###  Olá, eu sou Mariane
 ---
 
 :woman_student:&nbsp;&nbsp;Estudante de Tecnologia da Informação (TI), na UFRN 
